@@ -9,6 +9,6 @@
 config:
 -   name: builds/digit-impel-builds/punjab-rainmaker-customization/migration_wns_java
     build:
-    - work-dir: migration_wns_java
+    - work-dir: "migration_wns_java"
       dockerfile: "build/maven/Dockerfile"
-      image-name: migration_wns_java                                  
+      image-name: "migration_wns_java"                                  
