@@ -10,5 +10,5 @@ config:
 -   name: "builds/punjab-rainmaker-customization/migration_wns_java"
     build:
     - work-dir: "migration_wns_java"
-      dockerfile: "build/maven/Dockerfile"
+      dockerfile: "migration_wns_java/Dockerfile"
       image-name: "migration_wns_java"                                  
