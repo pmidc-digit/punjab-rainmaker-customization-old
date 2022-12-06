@@ -1084,16 +1084,16 @@
                   "headers": []
                 },
                 {
-                  "id": "slaAchieved",
-                  "name": "DSS_SLA_ACHIEVED",
+                  "id": "completionRate",
+                  "name": "DSS_PGR_COMPLETION_RATE",
                   "code": "",
                   "chartType": "metric",
                   "filter": "",
                   "headers": []
                 },
                 {
-                  "id": "completionRate",
-                  "name": "DSS_PGR_COMPLETION_RATE",
+                  "id": "slaAchieved",
+                  "name": "DSS_SLA_ACHIEVED",
                   "code": "",
                   "chartType": "metric",
                   "filter": "",
